@@ -43,15 +43,15 @@ function divide(){
 
 //map,filter,reading
 
-// //Map
-// let arr = [2,6,5,3,8,10,64,55]
-// let newArr = arr.map(function test(x){
-//     return x*3
-// })
-// console.log(newArr)
+//Map
+let arr = [2,6,5,3,8,10,64,55]
+let newArr = arr.map(function test(x){
+    return x*3
+})
+console.log(newArr)
 
-// //Filter
-// let filArr = arr.filter(function test1(x){
-//     return x > 25;
-// })
-// console.log(filArr)
+//Filter
+let filArr = arr.filter(function test1(x){
+    return x > 25;
+})
+console.log(filArr)
